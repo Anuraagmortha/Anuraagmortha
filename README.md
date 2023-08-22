@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Anuraagmortha
+- 👋 Hello, I’m @Anuraagmortha
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently persuing my B.tech in Information Technology.
+- 🌱 Persuing my BS in Data Science and Applications from IIT Madras.
+- 🌱 Persuing my B.tech in Information Technology.
 - 💞️ I love to learn various programming languages.
 - 📫 You can reach me on LinkedIn via https://www.linkedin.com/in/anuraag-mortha-6670261bb
 
