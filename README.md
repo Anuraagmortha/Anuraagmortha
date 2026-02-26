@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @Anuraagmortha
-- 👀 I’m interested in Machine Learning and Data Science
+- 👀 Interested in Machine Learning and Data Science
 - ✨ B.tech in Information Technology from JNTU-GV, Vizianagaram.
 - 🌱 Persuing my BS in Data Science and Applications from IIT Madras.
 - 📫 You can reach me on LinkedIn via https://www.linkedin.com/in/anuraag-mortha-6670261bb
